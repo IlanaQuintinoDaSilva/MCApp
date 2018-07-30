@@ -1,7 +1,6 @@
 package br.com.iq.mcapp
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import br.com.iq.mcapp.fingerprint.FingerprintActivity
 import kotlinx.android.synthetic.main.activity_login.*

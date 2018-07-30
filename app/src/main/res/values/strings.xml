@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">MCApp</string>
+    <string name="cadastrar_biometria_btn">Cadastrar Biometria</string>
     <string name="entrar_btn">Entrar</string>
     <string name="fingerprint_hint">Touch sensor</string>
     <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
     <string name="fingerprint_success">Fingerprint recognized</string>
     <string name="login_hint">Login</string>
     <string name="senha_hint">Senha</string>
-    <string name="cadastrar_biometria_btn">Cadastrar Biometria</string>
+    <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
 </resources>
